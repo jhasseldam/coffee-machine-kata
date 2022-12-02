@@ -8,8 +8,4 @@
     <RootNamespace>Beverages</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="ValueObjects" />
-  </ItemGroup>
-
 </Project>
