@@ -1,6 +1,4 @@
-using Resources.ValueObjects;
-
-namespace Resources;
+namespace Vending;
 
 public class Storage
 {

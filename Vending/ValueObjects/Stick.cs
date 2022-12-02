@@ -1,4 +1,4 @@
-namespace Resources.ValueObjects;
+namespace Vending.ValueObjects;
 
 public class Stick : Condiment
 {

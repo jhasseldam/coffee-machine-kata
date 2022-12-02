@@ -1,4 +1,4 @@
-namespace Resources.Models;
+namespace Vending.Models;
 
 public class Beverage 
 {

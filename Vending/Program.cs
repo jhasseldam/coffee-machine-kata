@@ -6,10 +6,8 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-        static void Main(string[] _)
-        {
-           // Walk up to vending machine and TAPS screen!
-           Menu.PrintMenu();
-        }
+           Menu.MenuAvailabilityChanged();
+            // Walk up to vending machine and TAPS screen!
+           Menu.PrintBeverageMenu();
     }
 }
