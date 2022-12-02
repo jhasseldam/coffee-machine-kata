@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{3BBDB8B6-7C46-4333-AA77-0D96A039826A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beverages", "Beverages\Beverages.csproj", "{1B850827-DFF4-47D3-B361-220186875FA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vending", "Vending\Vending.csproj", "{1B850827-DFF4-47D3-B361-220186875FA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
